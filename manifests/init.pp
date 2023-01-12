@@ -1,6 +1,6 @@
 #
 #  2023/01/12 - cp - This one applies to both AIX and VIOS in our environment,
-#		so it's a little more complicated that the first one.
+#		so it's a little more complicated than the first one.
 #
 #		cp - Fixed some non-variable things from the first class where
 #		not everything was based on the $ifixName variable.
